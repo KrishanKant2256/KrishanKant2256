@@ -19,8 +19,8 @@
     <a href="https://www.linkedin.com/in/krishan-kant-sharma-866b2937b/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://myresume-check.streamlit.app/">
-      <img src="https://img.shields.io/badge/Portfolio-00A67D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <a href="https://leetcode.com/u/krishan2256/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
   </p>
 </div>
@@ -195,19 +195,13 @@ I usually start somewhere around:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishanKant2256&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Krishan's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishanKant2256&theme=github&hide_border=true&area=true" width="95%" alt="Krishan's Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/7dcfff/KrishanKant2256" width="95%" alt="Krishan's Contribution Scale Grid" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KrishanKant2256/KrishanKant2256/output/github-user-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake" />
+  <img src="https://ghchart.rshah.org/216e39/KrishanKant2256" width="95%" alt="Krishan's Contribution Scale Grid" />
 </div>
 
 ---
@@ -234,8 +228,8 @@ I want to understand how things work well enough to build something with them.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://myresume-check.streamlit.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00A67D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://leetcode.com/u/krishan2256/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 
   <br/><br/>
