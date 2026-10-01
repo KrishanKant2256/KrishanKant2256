@@ -195,7 +195,19 @@ I usually start somewhere around:
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KrishanKant2256/KrishanKant2256/main/github-user-contribution-grid-snake.svg" alt="Contribution Snake" onerror="this.style.display='none'" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishanKant2256&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Krishan's Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/7dcfff/KrishanKant2256" width="95%" alt="Krishan's Contribution Scale Grid" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KrishanKant2256/KrishanKant2256/output/github-user-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake" />
 </div>
 
 ---
